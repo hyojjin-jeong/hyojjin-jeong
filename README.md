@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:e6e6fa,100:fca5c5&height=200&section=header&text=hyodin's%20github&fontColor=ffffff&fontSize=70&animation=twinkling)
