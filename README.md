@@ -31,5 +31,6 @@
 </br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojinwjd99" />
 </br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffe4e1,100:e6e6fa&height=150&section=footer)
 </div>
